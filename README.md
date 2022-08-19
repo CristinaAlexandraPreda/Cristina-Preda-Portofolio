@@ -1,6 +1,6 @@
 # About Me
 
-![CristinaAlexandraPreda](https://user-images.githubusercontent.com/61754037/185668400-6a070be4-b490-46d4-9dfd-363e7300547b.jpg)
+![CAP](https://user-images.githubusercontent.com/61754037/185669336-1bc28f2f-bd6f-492b-9ab4-88290dd96b2d.jpg)
 
 I have a technical background with a PhD degree in Electrical Engineering (University of Craiova, Romania), starting my carrier as a lecturer in higher education, accumulating 7+ years of experience which involved assisting senior professors, attending various conferences and mentoring students in database and computer aided design fields. Recently, I am a Data Analytics Freelance Trainer being based in Lafayette, Indiana, USA.
 

@@ -19,3 +19,4 @@ I have a technical background with a PhD degree in Electrical Engineering (Unive
 This is a repository to showcase skills and share learning projects in Data Analytics/Data Science related topics.
 
 # Learning Projects Description
+Status: portofolio - work in progress

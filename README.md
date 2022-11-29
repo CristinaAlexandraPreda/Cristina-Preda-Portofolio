@@ -18,5 +18,5 @@ I have a technical background with a PhD degree in Electrical Engineering (Unive
 
 This is a repository to showcase skills and share learning projects in Data Analytics/Data Science related topics.
 
-# Learning Projects Description
-Status: portofolio - work in progress
+# Learning Projects Description --> Status: portofolio - work in progress
+# [Project 1: Online Retail Analysis](https://github.com/CristinaAlexandraPreda/CristinaPreda-Portofolio/blob/main/P3_Retail_portofolio.ipynb)

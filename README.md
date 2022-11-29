@@ -18,5 +18,16 @@ I have a technical background with a PhD degree in Electrical Engineering (Unive
 
 This is a repository to showcase skills and share learning projects in Data Analytics/Data Science related topics.
 
-# Learning Projects Description --> Status: portofolio - work in progress
+# Learning Projects Description 
+
 # [Project 1: Online Retail Analysis](https://github.com/CristinaAlexandraPreda/CristinaPreda-Portofolio/blob/main/P3_Retail_portofolio.ipynb)
+
+**Description:** This is a dataset that contains 541909 records that represents transactions occurring between 12/01/2010 and 12/09/2011 for a UK-based and registered non-store online retail.
+**Problem statement:** The business requirement is to understand the value derived from a customer. 
+Customer segmentation using RFM analysis would be performed. The resulting segments can be ordered from the most valuable (highest recency, frequency, and monetary) to the least valuable (lowest recency, frequency, and monetary). 
+**Skills:** data inspection, data cleaning, descriptive analytics, data transformation, data visualization, data modeling using RFM, k-means clustering, feature scaling.
+**Tools:**
+-	Programming: Python – pandas, numpy, matplotlib, seaborn, sklearn;
+-	Data Visualization: Tableau Desktop.
+
+Note: --> Status: portofolio - work in progress

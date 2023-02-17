@@ -34,4 +34,18 @@ Customer segmentation using RFM analysis would be performed. The resulting segme
 -	Data Visualization: Tableau Desktop.
 
 # [Project 2: Healthcare Analysis](https://github.com/CristinaAlexandraPreda/CristinaPreda-Portofolio/blob/main/P2_Healthcare.ipynb)
+
+**Description:** This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases, having 768 records and 9 features.
+Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
+
+**Problem statement:**  
+The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. 
+
+**Skills:** data inspection, data cleaning, descriptive analytics, data visualization, data modeling using Logistic Regression, Decission Tree, Naive Bayse and KNN 
+
+**Tools:**
+-	Programming: Python – pandas, numpy, matplotlib, seaborn, sklearn;
+-	Data Visualization: Tableau Desktop (https://public.tableau.com/views/P2_Healthcare/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+
 Note: --> Status: portofolio - work in progress

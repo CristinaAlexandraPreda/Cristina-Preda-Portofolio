@@ -20,7 +20,7 @@ This is a repository to showcase skills and share learning projects in Data Anal
 
 # Learning Projects Description 
 
-# [Project 1: Online Retail Analysis](https://github.com/CristinaAlexandraPreda/CristinaPreda-Portofolio/blob/main/P3_Retail_portofolio.ipynb)
+# [Project 1: Online Retail Analysis](https://github.com/CristinaAlexandraPreda/CristinaPreda-Portofolio/blob/main/P1_Retail_portofolio.ipynb)
 
 **Description:** This is a dataset that contains 541909 records that represents transactions occurring between 12/01/2010 and 12/09/2011 for a UK-based and registered non-store online retail.
 

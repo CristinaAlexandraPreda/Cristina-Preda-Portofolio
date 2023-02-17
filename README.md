@@ -33,5 +33,5 @@ Customer segmentation using RFM analysis would be performed. The resulting segme
 -	Programming: Python – pandas, numpy, matplotlib, seaborn, sklearn;
 -	Data Visualization: Tableau Desktop.
 
-# [Project 2: Healthcare Analysis](https://github.com/CristinaAlexandraPreda/CristinaPreda-Portofolio/blob/main/P2_healthcare.ipynb)
+# [Project 2: Healthcare Analysis](https://github.com/CristinaAlexandraPreda/CristinaPreda-Portofolio/blob/main/P2_Healthcare.ipynb)
 Note: --> Status: portofolio - work in progress
